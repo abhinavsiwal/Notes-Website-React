@@ -1,0 +1,13 @@
+
+.signup_container{
+    background: url('../../Assets/signup_bg.jpg') no-repeat center ;
+    background-size: cover;
+    z-index: 100;
+    height: 100vh;
+    opacity: 0.8;
+    margin-top: -10;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
